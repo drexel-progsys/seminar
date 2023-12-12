@@ -22,7 +22,7 @@ title: Drexel Programming Systems Seminar
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bookkeeping for the Drexel Programming Systems Seminar
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/seminar" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
