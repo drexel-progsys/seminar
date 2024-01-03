@@ -9,5 +9,5 @@ For the list of paper suggestions, see the Suggestions link in the nav bar.
 
 <h2>Term-by-term Meetings</h2>
 {% for post in site.posts %}
-<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
 {% endfor %}
