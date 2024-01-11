@@ -5,6 +5,8 @@ permalink: /suggestions/
 ---
 This is a list of suggested papers to discuss, which will persist term to term. If you present a paper, please remove it from this list when you add yourself to the schedule. Please add new suggestions to the top of the list.
 
+- Creager and van Antwerpen. [Stack Graphs: Name Resolution at Scale](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.EVCS.2023.8), Eelco Visser Commemorative Symposium, 2023.
+- Guo, Xu, Duan, Yin, and McAuley. [LongCoder: A Long-Range Pre-trained Language Model for Code Completion](https://proceedings.mlr.press/v202/guo23j.html), ICML 2023.
 - Yang, Zhao, Wang, Shi, Kim, Han, and Lo. [Unveiling Memorization in Code Models](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/69/Unveiling-Memorization-in-Code-Models). ICSE 2024, to appear.
 - Karakaya and Bodden. [Symbol-Specific Sparsification of Interprocedural Distributive Environment Problems](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/88/Symbol-Specific-Sparsification-of-Interprocedural-Distributive-Environment-Problems). ICSE 2024. 
 - Cui, Sun, Xu, and Zhou. [Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/136/Is-unsafe-an-Achilles-Heel-A-Comprehensive-Study-of-Safety-Requirements-in-Unsafe-R). ICSE 2024, to appear.
