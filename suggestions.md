@@ -5,6 +5,10 @@ permalink: /suggestions/
 ---
 This is a list of suggested papers to discuss, which will persist term to term. If you present a paper, please remove it from this list when you add yourself to the schedule. Please add new suggestions to the top of the list.
 
+A note on getting papers: Many of these are links to the authoritative publisher versions of the papers. Drexel has subscriptions, and accessing any of these links from on campus should "just work." From off campus, you can either use the Drexel VPN, or drop the paper title into Google Scholar, and will usually find author-posted versions.
+
+- Clarke, Östlund, Sergey, and Wrigstad. [Ownership Types: A Survey](https://link.springer.com/chapter/10.1007/978-3-642-36946-9_3). In *Aliasing in Object-Oriented Programming: Types, Analysis and Verification*, 2013.
+- Aldrich, Chambers, and Notkin. [ArchJava: connecting software architecture to implementation](https://dl.acm.org/doi/abs/10.1145/581339.581365)
 - Creager and van Antwerpen. [Stack Graphs: Name Resolution at Scale](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.EVCS.2023.8), Eelco Visser Commemorative Symposium, 2023.
 - Guo, Xu, Duan, Yin, and McAuley. [LongCoder: A Long-Range Pre-trained Language Model for Code Completion](https://proceedings.mlr.press/v202/guo23j.html), ICML 2023.
   + Might be pushing the neural network background assumptions for the seminar
