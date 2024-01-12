@@ -23,7 +23,6 @@ For an overview of what some of these venue abbreviations refer to, see the end 
 - Nick Feng, Lina Marsso, Sinem Getir Yaman, Yesugen Baatartogtokh, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik. [Analyzing and Debugging Normative Requirements via Satisfiability Checking](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/89/Analyzing-and-Debugging-Normative-Requirements-via-Satisfiability-Checking). ICSE 2024, to appear.
 - Sahebolamri, Barret, Moore, and Micinski. [Bring Your Own Data Structures to Datalog](https://dl.acm.org/doi/10.1145/3622840). OOPSLA 2023.
 - Li, Huan, and Naik. [Scallop: A Language for Neurosymbolic Programming](https://dl.acm.org/doi/10.1145/3591280). PLDI 2023.
-- Lehmann, Geller, Vazou, and Jhala. [Flux: Liquid Types for Rust](https://dl.acm.org/doi/10.1145/3591283). PLDI 2023.
 - Chen, Chung, Lengál, Lin, Tsai, and Yen. [An Automata-Based Framework for Verification and Bug Hunting in Quantum Circuits](https://dl.acm.org/doi/10.1145/3591270). ISSTA 2023.
   + May be pushing the complexity budget for the seminar.
 - Kim, Corradini, Sinha, Orso, Pasqua, Tzoref-Brill, and Ceccato. [Enhancing REST API Testing with NLP Techniques](https://dl.acm.org/doi/10.1145/3597926.3598131). ISSTA 2023.
