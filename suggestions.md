@@ -9,6 +9,7 @@ A note on getting papers: Many of these are links to the authoritative publisher
 
 For an overview of what some of these venue abbreviations refer to, see the end of the page.
 
+- Crichton and Krishnamurthi. [Profiling Programming Language Learning](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-prof-prog-lang-learn/). In OOPSLA 2024.
 - Clarke, Östlund, Sergey, and Wrigstad. [Ownership Types: A Survey](https://link.springer.com/chapter/10.1007/978-3-642-36946-9_3). In *Aliasing in Object-Oriented Programming: Types, Analysis and Verification*, 2013.
 - Aldrich, Chambers, and Notkin. [ArchJava: connecting software architecture to implementation](https://dl.acm.org/doi/abs/10.1145/581339.581365), ICSE 2002.
 - Creager and van Antwerpen. [Stack Graphs: Name Resolution at Scale](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.EVCS.2023.8), Eelco Visser Commemorative Symposium, 2023.
