@@ -1,3 +1,8 @@
+---
+layout: page
+title: Presenter Notes
+permalink: /presenter_notes/
+---
 There are two sides of presenting:
 
 - Getting things on the screen for the room
