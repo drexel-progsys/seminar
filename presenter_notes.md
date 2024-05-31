@@ -8,11 +8,13 @@ There are two sides of presenting:
 - Getting things on the screen for the room
 - Getting things on screen for folks in Zoom (if Zoom is involved)
 
-## Presenting in 928
+## Presenting in 928 or any other CCI classroom
 
-928 has standard A/V setup for a CCI classroom. If you plug in your laptop, you'll get an external display, but the room's A/V system will usually show *two* screens,
+All CCI classrooms have the same A/V setup, aside from 928 having a large display and other classrooms having screens. If you plug in your laptop, you'll get an external display, but the room's A/V system will usually show *two* screens,
 side by side: your external display, and the display for the machine in the room. For help getting your laptop connected and showing on the big monitor,
 see the general A/V support docs from CCI, which have some pictorals to show you what to select: https://support.cci.drexel.edu/cci-spaces/classroom-av-systems/cci-classroom-technology-and-cynap-use-3675-market-street/
+
+If we end up in another classroom, the screen will almost certainly already be down. On the off chance that it's not, the little screen next to the podium screen has controls to turn on the projector and lower the screen; see the CCI A/V support docs above if you can't find those settings.
 
 ## Presenting on Zoom
 
